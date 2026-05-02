@@ -1,16 +1,44 @@
-<h1 align="center">Hi 👋, I'm Agustin Donalisio</h1>
-<h3 align="center">I’m a systems student at ORT with experience in software development. I worked at Obux before taking on the challenge of becoming a Full Stack developer through the intensive program at Plataforma 5, which consisted of over 800 hours, I acquired skills in key technologies such as MongoDB, Express.js, React.js, and Node.js, while also using agile methodologies like Scrum and engaging in pair programming. My experience at Obux and my training have provided me with a solid foundation for Full Stack development.</h3>
+# Agustín Donalisio
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dazxon&label=Profile%20views&color=0e75b6&style=flat" alt="dazxon" /> </p>
+**Backend Engineer · Go & distributed systems**  
+Buenos Aires, Argentina · UTC−3
 
-- 👨‍💻 All of my projects are available at [https://dazxon.github.io/portfolio/](https://dazxon.github.io/portfolio/)
+## About
 
-- 📫 How to reach me **dev@adonalisio.com**
+Backend engineer focused on building reliable services in Go — HTTP and gRPC APIs, event-driven pipelines, and the data layer behind them. Systems engineering background at ORT. I care about clean interfaces, predictable failure modes, and code that's pleasant to operate.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agustin-donalisio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-donalisio" height="30" width="40" /></a>
+## What I work on
+
+- Designing and shipping Go services (HTTP / gRPC).
+- Postgres, Redis, and message queues for event-driven flows.
+- Containers, CI/CD, and infrastructure-as-code.
+- Observability: metrics, traces, and structured logs that actually help.
+
+## Tech
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8a1e1e?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1f1f1f?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1d63ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2c4f9c?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5c4ee5?style=flat-square&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-2b2b2b?style=flat-square&logo=opentelemetry&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4a4a4a?style=flat-square&logo=git&logoColor=white)
+
+<sub>Also worked with: Node.js, Express, React.</sub>
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dazxon&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazxon&layout=compact&langs_count=8&hide=html,css,scss&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-agustin--donalisio-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustin-donalisio)
+[![Email](https://img.shields.io/badge/Email-dev%40adonalisio.com-4a4a4a?style=flat-square&logo=maildotru&logoColor=white)](mailto:dev@adonalisio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dazxon.github.io-1f1f1f?style=flat-square&logo=githubpages&logoColor=white)](https://dazxon.github.io/portfolio/)
